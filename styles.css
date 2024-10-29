@@ -21,7 +21,7 @@ body {
 }
 
 .navbar a {
-    color: #fff;
+    color: #0000000;
     text-decoration: none;
     padding: 10px 15px;
     font-weight: bold;
@@ -37,7 +37,7 @@ body {
     background-image: url('images/logo.png');
     background-size: cover;
     background-position: center;
-    color: #fff;
+    color: #00000;
     text-align: center;
     padding: 60px 20px;
 }
@@ -52,7 +52,7 @@ body {
     max-width: 1200px;
     margin: 20px auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #00000;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
@@ -70,14 +70,14 @@ p {
 /* Footer */
 .footer {
     background-color: #333;
-    color: #fff;
+    color: #00000;
     text-align: center;
     padding: 10px 0;
     margin-top: 30px;
 }
 
 .footer a {
-    color: #fff;
+    color: #0000;
     text-decoration: underline;
 }
 
