@@ -58,3 +58,33 @@ body {
 }
 
 h2 {
+    color: #333333; /* Dark gray text for headings */
+    font-size: 2em;
+    margin-bottom: 15px;
+}
+
+p {
+    line-height: 1.6;
+    color: #333333;
+}
+
+/* Footer */
+.footer {
+    background-color: #1c1c1c;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 30px;
+}
+
+.footer a {
+    color: #ff3333; /* Bright red for footer links */
+    text-decoration: underline;
+}
+
+/* Specific Styling */
+.team-member, .competition {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
